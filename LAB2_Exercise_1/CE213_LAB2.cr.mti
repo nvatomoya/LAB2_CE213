@@ -1,0 +1,36 @@
+C:/ModelSim/Median_filter/Sort9.v {1 {vlog -work work -stats=none C:/ModelSim/Median_filter/Sort9.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sort9
+
+Top level modules:
+	sort9
+
+} {} {}} C:/ModelSim/Median_filter/median_filter.v {1 {vlog -work work -stats=none C:/ModelSim/Median_filter/median_filter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module median_filter_3x3
+
+Top level modules:
+	median_filter_3x3
+
+} {} {}} C:/ModelSim/Median_filter/Comparator.v {1 {vlog -work work -stats=none C:/ModelSim/Median_filter/Comparator.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module comparator
+
+Top level modules:
+	comparator
+
+} {} {}} C:/ModelSim/Median_filter/Sort.v {1 {vlog -work work -stats=none C:/ModelSim/Median_filter/Sort.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sort3
+
+Top level modules:
+	sort3
+
+} {} {}} C:/ModelSim/Median_filter/testbench.v {1 {vlog -work work -stats=none C:/ModelSim/Median_filter/testbench.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module median_testbench
+
+Top level modules:
+	median_testbench
+
+} {} {}}
